@@ -1,3 +1,12 @@
+Created a userdata app from mockAPI that allows to perform CRUD operations like adding ,deleting and editing user details.
+
+![image](https://github.com/Asha-vysyaraju/crud-axios-react/assets/18022094/d3e3baf2-1840-44f6-8e4b-56f9a19ec98e)
+
+![image](https://github.com/Asha-vysyaraju/crud-axios-react/assets/18022094/2f7e3fd6-c328-4797-9904-d350bd140f05)
+![image](https://github.com/Asha-vysyaraju/crud-axios-react/assets/18022094/873fc3c9-06f7-495f-8a04-80cbd7b66964)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
